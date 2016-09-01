@@ -1,0 +1,32 @@
+{
+  "name": "testing",
+  "subdomain": "hanif_test",
+  "version": "0.0.1",
+  "description": "A sample Node.js app for",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^2.0.1",
+    "consolidate": "*",
+    "ejs": "*",
+    "express": "3.4.8",
+    "jade": "*",
+    "request": "^2.36.0"
+  },
+  "engines": {
+    "node": "0.10.41"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sayyedhanif@bitbucket.org/sayyedhanif/someName.git"
+  },
+  "keywords": [
+    "node",
+    "hanif_auth_test",
+    "express"
+  ],
+  "author": "sayyed-hanif",
+  "license": "MIT"
+}
